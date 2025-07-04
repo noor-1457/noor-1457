@@ -33,8 +33,8 @@ Real-time weather search by city using OpenWeather API.
 ## 📫 Let's Connect
 
 - 📧 Email: noorzafar882@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/noor-fatima-63a609318/) *(Add your actual link here)*  
-- 🌍 Portfolio: *(Optional if you build one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/noor-fatima-63a609318/)  
+- 🌍 Portfolio: 
 
 ---
 
