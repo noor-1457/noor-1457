@@ -31,7 +31,7 @@ Real-time weather search by city using OpenWeather API.
 
 - 📧 Email: noorzafar882@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/noor-fatima-63a609318/)  
-- 🌍 Portfolio:(https://my-portfolio-zeta-one-28.vercel.app/?#) 
+- 🌍 Portfolio:((https://noorfatimas-portfolio.vercel.app/)) 
 
 ---
 
